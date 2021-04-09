@@ -10,5 +10,5 @@ $ gem install rarff
 
 ## Run
 ```sh
-$ ruby projection_transformation_algorithm.rb --data data/centrifugation.xes --results results
+$ ruby projection_transformation_algorithm.rb --data data/loan_process.xes --results results
 ```
