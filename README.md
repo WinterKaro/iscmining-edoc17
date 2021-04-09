@@ -9,4 +9,6 @@ $ gem install rarff
 ```
 
 ## Run
-ruby projection_transformation_algorithm.rb --data data/centrifugation.xes --results results
+```sh
+$ ruby projection_transformation_algorithm.rb --data data/centrifugation.xes --results results
+```
